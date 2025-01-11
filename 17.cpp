@@ -34,7 +34,6 @@ int main () {
         }
         //Output the last effective element.
         cout << number_array[space_used - 1] << "]" << endl;
-        return 0;
     } else cout << "No positive number has been inputed" << endl;
-    
+    return 0;
 }
